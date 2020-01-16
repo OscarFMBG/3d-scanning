@@ -1,0 +1,8 @@
+# python
+__pycache__/
+
+# poetry (packaging)
+poetry.lock
+
+# pytest
+.pytest_cache/
